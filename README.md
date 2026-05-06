@@ -1,2 +1,31 @@
-# bb50b172-private-equity-portfolio-monit
-Sophisticated Notion workspace for private equity associates and family offices monitoring portfolio company performance. Features a portfolio company database with KPI tracking, board meeting notes log, covenant compliance tracker, portfolio company dashboard with revenue, EBITDA, and cash burn metrics. Includes an exit planning workspace with val
+# Private Equity Portfolio Monitoring Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/bJecN54eP7Eo3lmdI0cZa0W)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/bJecN54eP7Eo3lmdI0cZa0W)
+- [Buy on Gumroad](https://pulsegear.gumroad.com/l/inohr)
+- [Buy on Whop](https://whop.com/private-equity-portfolio-monitoring-notion-template)
+
